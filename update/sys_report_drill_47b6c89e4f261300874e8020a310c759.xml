@@ -74,7 +74,7 @@
         <pivot_expanded>true</pivot_expanded>
         <report_drilldown/>
         <report_source display_value="Active NeedIt Requests (NeedIt)">85383a864fa21300874e8020a310c777</report_source>
-        <roles/>
+        <roles>snc_internal</roles>
         <row/>
         <sc_groupby_item_id/>
         <sc_groupby_variable_id/>
